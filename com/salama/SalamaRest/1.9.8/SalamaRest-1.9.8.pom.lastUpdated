@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Jan 17 20:55:22 CST 2022
+https\://raw.githubusercontent.com/SalamaSoft/maven-repo/master/.error=Could not transfer artifact com.salama\:SalamaRest\:pom\:1.9.8 from/to salama-maven-repo (https\://raw.githubusercontent.com/SalamaSoft/maven-repo/master)\: transfer failed for https\://raw.githubusercontent.com/SalamaSoft/maven-repo/master/com/salama/SalamaRest/1.9.8/SalamaRest-1.9.8.pom
+@default-salama-maven-repo-https\://raw.githubusercontent.com/SalamaSoft/maven-repo/master/.lastUpdated=1642424122235
+https\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1642424018199
+https\://maven.aliyun.com/nexus/content/groups/public/.error=
